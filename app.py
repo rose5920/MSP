@@ -129,4 +129,4 @@ if st.button("Hide Separate plots"):
 
 st.write("---")
 
-st.write("<p style='color:Blue; font-weight:bold; font-size:50px;'>Created by:- Pallavi Jha</p>",unsafe_allow_html=True)
+st.write("<p style='color:Blue; font-weight:bold; font-size:50px;'>Created by:-Madhuri Lad & Pallavi Jha</p>",unsafe_allow_html=True)
